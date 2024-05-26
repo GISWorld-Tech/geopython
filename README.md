@@ -1,4 +1,9 @@
-# FOSS4G_Asia_2023
-Python Plugin Development Workshop at FOSS4G Asia 2023
+# Geopython
+Python Plugin Development Workshop at Geopython 2024
 
-![grafik](https://github.com/Hamidrezaostadabbas/FOSS4G_Asia_2023/assets/104430434/cc8fb88c-2497-445e-b686-0526d2a81d86)
+### Team
+![Alt text](cesium-6-part_4.png)
+
+> Scan me to join the GISWorld Academy channel
+
+![Alt text](GISWorld-Tech.png)
