@@ -1,4 +1,4 @@
-# Geopython
+# Geopython 2024
 Python Plugin Development Workshop at Geopython 2024
 
 ### Team
