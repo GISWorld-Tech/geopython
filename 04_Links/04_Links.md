@@ -21,7 +21,7 @@ Subscribe now for regular updates and stay tuned for exciting videos!
 
 📺 [GIS World YouTube Channel](https://www.youtube.com/@gisworld-tech/playlists)
 
-[die STEG Stadtentwiecklung Gmbh Website](https://steg.de/)
+[die STEG Stadtentwicklung GmbH Website](https://steg.de/)
 
 [GISWorld Website](https://gisworld-tech.com/)
 
